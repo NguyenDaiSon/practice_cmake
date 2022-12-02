@@ -1,0 +1,14 @@
+set(
+	APPLICATION_TEST1_SOURCES
+	test1.cc
+
+add_executable(
+	${APPLICATION_TEST1_NAME}
+	${APPLICATION_TEST1_SOURCES}
+)
+
+target_link_libraries(
+	${APPLICATION_TEST1_NAME}
+	PRIVATE
+	${LIBRARY_NAME}
+)
