@@ -1,2 +1,0 @@
-/usr/bin/ar qc libSimpleLibAgainWithVariable.a  CMakeFiles/SimpleLibAgainWithVariable.dir/my_lib.cc.o
-/usr/bin/ranlib libSimpleLibAgainWithVariable.a

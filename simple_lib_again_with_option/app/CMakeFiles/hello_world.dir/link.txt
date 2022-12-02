@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/hello_world.dir/main.cc.o  -o hello_world  ../lib/libSimpleLibAgainWithVariable.a 
