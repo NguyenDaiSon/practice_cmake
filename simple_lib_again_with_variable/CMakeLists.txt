@@ -25,13 +25,13 @@ set (
 )
 
 set(
-	LIBRARY_NAME			# Variable name
-	"SimpleLibAgainWithVariable"	# Variable value
+	APPLICATION_NAME
+	"hello_world"
 )
 
 set(
-	APPLICATION_NAME
-	"hello_world"
+	LIBRARY_NAME			# Variable name
+	"SimpleLibAgainWithVariable"	# Variable value
 )
 
 add_subdirectory(app)
